@@ -1,12 +1,15 @@
+###CODE DE PREPROCESSING DE DATASET AUDIO POUR ASR AVEC WHISPER###
+
 import os
-import librosa
 import soundfile as sf
 from pydub import AudioSegment, silence
 import whisper
 import pandas as pd
 
+
+
 # 1️⃣ Configuration
-AUDIO_FILE = "audio_test.wav"  # Ton fichier audio
+AUDIO_FILE = "audio_CIV.wav"  # Ton fichier audio
 OUTPUT_DIR = "dataset"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -30,7 +33,7 @@ for i, chunk in enumerate(chunks):
     file_name = f"sample_{i}.wav"
     file_path = os.path.join(OUTPUT_DIR, file_name)
 
-    chunk.export(file_path, format="wav")
+    chunk.export(file_path, format="wav")  # Sauvegarde du segment
 
     # 4️⃣ Transcription du segment
     result = model.transcribe(file_path, language="fr")

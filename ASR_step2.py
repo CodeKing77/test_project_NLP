@@ -1,3 +1,5 @@
+###CODE D'ANALYSE ET VISUALISATION DE SPECTROGRAMME AVEC LIBROSA###
+
 import librosa
 import librosa.display
 import matplotlib.pyplot as plt

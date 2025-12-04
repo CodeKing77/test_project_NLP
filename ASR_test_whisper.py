@@ -1,3 +1,5 @@
+###COODE DE TRANCRIPTION AUDIO AVEC WHISPER###
+
 import whisper
 
 model = whisper.load_model("base")

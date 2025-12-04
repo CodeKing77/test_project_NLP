@@ -1,3 +1,5 @@
+###CODE DE CHARGEMENT ET D'ANALYSE DE FICHIERS AUDIO AVEC LIBROSA###
+
 import librosa
 import soundfile as sf
 

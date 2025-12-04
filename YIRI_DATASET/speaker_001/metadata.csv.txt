@@ -1,0 +1,14 @@
+audio_filepath,transcription
+seg_1.wav,bonsoir respo j'espère que vous allez bien je suis entrain de causer avec un gars là
+seg_2.wav,c'est un entrepreneur
+seg_3.wav,actuellement il veut qu'on fasse un site pour lui mais je ne sais pas si la demande est urgente s'il a vraiment besoin de ça maintenant
+seg_4.wav,lui il est dans l'immobilier je vais t'envoyer la fiche qu'il fait
+seg_5.wav,la fiche de son entreprise
+seg_6.wav,j'aimerais savoir parce que vu que moi j'ai deux semaines à faire ici
+seg_7.wav,je ne sais pas si à son niveau il va devoir attendre
+seg_8.wav,attendre que moi je vienne pour qu'on puisse se voir tout ça est ce que ça ne va pas prendre assez de temps j'aimerais savoir si à distance je peux prendre toutes les informations vous me donnez la liste des informations que je dois collecter avec lui et je vous transmets ça je suis comme vous avez dit le canal
+seg_9.wav,je vous transmets et puis à la suite de cela
+seg_10.wav,nous on va s'entendre avec lui
+seg_11.wav,les directives que tu vas donner moi aussi je vais lui transmettre ce qu'il donnera aussi je vais vous transmettre aussi et puis on pourra faire un site
+seg_12.wav,internet un site internet pour lui maintenant j'aimerais aussi avoir la tranche tarifaire au niveau du prix
+seg_13.wav,si vous êtes disponible je vais vous appeler en soirée vers 18 heures si vous êtes disponible
